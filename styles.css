@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(79, 96, 12);
+  }
+  
+  h1 {
+    font-family: cursive;
+    color:wheat;
+    text-align: center;
+  }
+  h2 {
+    font-family: cursive;
+    color:wheat;
+    text-align: center;
+  }
+  h3 {
+    font-family: cursive;
+    color:wheat;
+    text-align: center;
+  }
+  h1:hover {
+    font-family: cursive;
+    color:white;
+    text-align: center;
+  }
+  h2:hover {
+    font-family: cursive;
+    color:white;
+    text-align: center;
+  }
+  h3:hover {
+    font-family: cursive;
+    color:white;
+    text-align: center;
+  }
+  a {
+color: white;
+}
+
+a:hover {
+color: wheat;
+}
+  p {
+    font-family: cursive;
+    font-size: 20px;
+    color:wheat;
+    text-align:center;
+        }
+  h4{
+    font-family:cursive;
+    color:wheat;
+    text-align: start;
+  }
+  footer {
+    font-family: cursive;
+    font-size: 10px;
+    color:wheat;
+    text-align:center;
+    margin-top: 100px;
+    
+  }
+  p:hover {
+    font-family: cursive;
+    font-size: 20px;
+    color:white;
+    text-align:center;
+        }
+  h4:hover {
+    font-family:cursive;
+    color:white;
+    text-align: start;
+  }
+  footer:hover {
+    font-family: cursive;
+    font-size: 10px;
+    color:white;
+    text-align:center;
+    margin-top: 100px;
+    
+  }
